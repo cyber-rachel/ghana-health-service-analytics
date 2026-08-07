@@ -21,7 +21,7 @@ The dashboard enables users to:
 
 ## 📊 Dashboard Pages
 
-### 🩺 Visits Dashboard
+### 🩺 Visits Overview Dashboard
 
 Provides an overview of healthcare utilization across facilities and regions.
 
@@ -134,7 +134,7 @@ The project analyzes healthcare data including:
 
 ## 📸 Dashboard Preview
 
-### Visits Dashboard
+### Visits Overview Dashboard
 
 ![Visits Dashboard](Images/overview.png)
 
