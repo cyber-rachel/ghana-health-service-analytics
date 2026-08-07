@@ -203,6 +203,6 @@ ghana-health-service-analytics
 
 ## 👤 Author
 
-**Palmer**
+**Rachel Konadu Gyamfi**
 
-Power BI • Data Analytics • Business Intelligence
+Power BI • Data Analytics
