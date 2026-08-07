@@ -1,6 +1,6 @@
-# 🏥 Ghana Health Service Analytics Dashboard
+# 🏥 Ghana Health Service Analytics Report
 
-An interactive Power BI dashboard that analyzes healthcare operations across Ghana, providing insights into patient visits, revenue performance, insurance coverage, regional activity, and healthcare service utilization.
+An interactive Power BI report that analyzes healthcare operations across Ghana, providing insights into patient visits, revenue performance, insurance coverage, regional activity, and healthcare service utilization.
 
 ---
 
@@ -19,7 +19,7 @@ The dashboard enables users to:
 
 ---
 
-## 📊 Dashboard Pages
+## 📊 Report Pages
 
 ### 🩺 Visits Overview Dashboard
 
